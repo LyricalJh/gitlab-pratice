@@ -1,0 +1,1 @@
+const result = "and then he dies sad.."
